@@ -1,0 +1,9 @@
+build/
+CMakeFiles/
+llvm_tests/
+lexer/
+parser/
+*.out
+*.txt
+!CMakeLists.txt
+*.cmake
